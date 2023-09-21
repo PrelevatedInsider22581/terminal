@@ -224,7 +224,8 @@
                     </ResourceDictionary.ThemeDictionaries>
 
                 </ResourceDictionary>
-                <ResourceDictionary Source="Resources\TreeViewItem.xaml"/>
+                <ResourceDictionary Source="Resources\TabViewItem.xaml"/>
+                <ResourceDictionary Source="Resources\TabView.xaml"/>
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
 
